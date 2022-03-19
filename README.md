@@ -1,7 +1,7 @@
 # Predicción de Calificaciones de Cálculo 2
 Este ha sido un proyecto para el curso Inteligencia Artificial, dictado en la [Facultad de Ingeniería de la Universidad de Asunción](http://www.ing.una.py/).
 
-#### -- Estado del proyecto: [Completed]
+#### -- Estado del proyecto: [Completado]
 
 ## Intro del proyecto
 El propósito de este proyecto es predecir la calificación de un alumno en el curso "Cálculo 2" y si aprobará o no. Se ha desarrollado como proyecto de la materia Inteligencia Artificial, dictada en la Facultad de Ingeniería de la Universidad de Asunción. 
